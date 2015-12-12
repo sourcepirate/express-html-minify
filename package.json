@@ -1,10 +1,9 @@
 {
   "name": "express-html-minify",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "html content  minifier",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git://github.com/plasmashadow/express-html-minify"
@@ -20,8 +19,7 @@
   },
   "homepage": "https://github.com/plasmashadow/express-html-minify",
   "dependencies": {
-    "express": "latest",
     "express-interceptor": "latest",
-    "html-minifier": "latest"
+    "tamper": "latest"
   }
 }
