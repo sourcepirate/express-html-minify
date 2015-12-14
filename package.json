@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/plasmashadow/express-html-minify",
   "dependencies": {
+    "html-minifier": "^1.0.0",
     "express-interceptor": "latest",
     "tamper": "latest"
   }
